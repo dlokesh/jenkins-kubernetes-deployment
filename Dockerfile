@@ -1,4 +1,4 @@
-FROM --platform=linux/arm64 node:19-alpine3.16
+FROM --platform=linux/amd64 node:19-alpine3.16
 
 WORKDIR /react-app
 
